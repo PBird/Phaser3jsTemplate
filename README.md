@@ -13,6 +13,6 @@ Run next commands in your terminal:
 | Command | Description |
 |---------|-------------|
 | `npm install` | Install dependencies.|
-| `npm run dev` development mode
+| `npm run dev`| development mode
 | `npm run build` | product mode
 =======
