@@ -8,6 +8,8 @@ We need [Node.js](https://nodejs.org) to install and run scripts.
 
 ## Install and run
 
+git clone https://github.com/PBird/Phaser3jsTemplate.git
+
 Run next commands in your terminal:
 
 | Command | Description |
